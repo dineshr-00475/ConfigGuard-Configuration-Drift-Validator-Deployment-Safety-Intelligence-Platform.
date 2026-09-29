@@ -1,0 +1,6 @@
+{
+  "name": "Configuration-Drift Validator",
+  "description": "Automated pre-deployment configuration drift detector and gatekeeper for flash-sale e-commerce releases across Dev, Staging, and Production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
